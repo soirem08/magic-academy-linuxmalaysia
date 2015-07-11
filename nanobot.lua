@@ -1,0 +1,1 @@
+func NewBot() *Bot {
